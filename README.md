@@ -105,18 +105,6 @@ Meu objetivo é me tornar um profissional forte em dados + engenharia, com portf
 
 ---
 
-## 📊 GitHub Performance
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/RomuloCifer/RomuloCifer/main/github-metrics.svg" />
-
-</div>
-
-
-
----
-
 ## 🐍🐍🐍
 
 <div align="center">
