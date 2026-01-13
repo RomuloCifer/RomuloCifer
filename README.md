@@ -1,8 +1,13 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hello%2C+World!+%F0%9F%8C%8D;Romulo+Portugal;Software+Engineering+Student;Future+Remote+Developer)](https://git.io/typing-svg)
+<br><br>
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=42&pause=1000&color=00E5FF&center=true&vCenter=true&width=1200&lines=Hello%2C+World!+%F0%9F%8C%8D;Software+Engineering+Student;Python+%7C+SQL+%7C+Excel+%7C+Power+BI;Building+projects+every+day.)](https://git.io/typing-svg)
+
+<br><br>
 
 </div>
+
 
 # Hi, I'm Romulo! 👋🚀
 
