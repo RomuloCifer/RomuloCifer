@@ -1,3 +1,9 @@
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=34&pause=1000&color=00E5FF&center=true&vCenter=true&width=1000&lines=Hello%2C+World!+%F0%9F%8C%8D;Romulo+Portugal;Software+Engineering+Student;Future+Remote+Developer)](https://git.io/typing-svg)
+
+</div>
+
 # Hi, I'm Romulo! 👋🚀
 
 Sou estudante / desenvolvedor focado em análise de dados .
